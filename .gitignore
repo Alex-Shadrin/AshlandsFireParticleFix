@@ -1,0 +1,13 @@
+build/
+*.zip
+*.dll
+*.pdb
+*-validation.json
+publication.json
+github-publication.json
+thunderstore-published.jpg
+github-published.jpg
+thunderstore-linked.jpg
+__pycache__/
+*.pyc
+

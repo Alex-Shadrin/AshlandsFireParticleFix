@@ -1,0 +1,7 @@
+{
+  "name": "Ashlands_Fire_Particle_Fix",
+  "version_number": "1.1.1",
+  "website_url": "https://github.com/Alex-Shadrin/AshlandsFireParticleFix",
+  "description": "Limits accumulated Ashlands fires and the fire/smoke effects they spawn. Server-side wildfire cleanup with configurable limits, lifetime and a default 60-second interval.",
+  "dependencies": ["denikson-BepInExPack_Valheim-5.4.2351"]
+}
